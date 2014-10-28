@@ -39,5 +39,5 @@ Technologies
 Installation
 ------------
 
-A description will follow when the basic architecture is finished.
+A detailed description will follow when the basic architecture is finished.
 
