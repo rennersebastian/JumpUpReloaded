@@ -18,7 +18,7 @@ We will adapt this backend, but build a new and improved architecture based n J2
 
 - Module: http://bkleinen.github.io/webapplications/index.html
 - Studies: International Media and Computing (Master)
-- University: HTW Berlin (http://htw-berlin.de)
+- University: HTW Berlin (http://www.htw-berlin.de)
 
 
 Old prototype
