@@ -2,3 +2,6 @@ language: java
 jdk:
 - oraclejdk8
 - oraclejdk7
+deploy:
+  api_key:
+    secure: ggt/9kYAZpvlvec9SO0ppj8gYD9Ss6zAvWmFXaisx/77rHGs3hSmuIndT+25m96ZgMEWsr3/vMM8nJfRwKIOn0TcirbJLd0pjD33gvzwNQhkP9gKtnfjkfcrpRg6/8K/CLmO6fXtwU+zbQsVFOqQv2/uV2wuX45wpMLPVvLDifk=
